@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Matt French
+- 💼 Founder of KolmTech Ltd, providing IT consultancy to local businesses
+- ♣️ Jack of all trades, primary experience in .NET, Java, React, and TypeScript
+- 🌱 I’m currently learning Rust, Go & Vue.js
+- 👀 Open to both full-time or contract work
+- 📫 Reach me on LinkedIn [@matthewfrench019](https://www.linkedin.com/in/matthewfrench019/)
